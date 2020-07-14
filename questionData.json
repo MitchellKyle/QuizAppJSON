@@ -10,5 +10,11 @@
 		"answers": ["var", "let", "con"],
 		"correctAnswerIndex": 1,
 		"feedback": "let is the keyword used to delcare a new variable"
-	}
+	},
+    {
+        "question": "What's the keyword for declaring a new function?",
+        "answers": ["funk", "function", "func"],
+        "correctAnswerIndex": 1,
+        "feedback": "let is the keyword used to delcare a new variable"
+    }
 ]
